@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-<!--
-**AaronMBMorse/aaronmbmorse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
+## Stats
 [![GitHub Streak](https://github-stats-aaronmbmorse.herokuapp.com?user=aaronmbmorse&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+
+<!--
+**AaronMBMorse/aaronmbmorse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
