@@ -5,8 +5,7 @@
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aaronmbmorse)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-stats-aaronmbmorse.herokuapp.com?user=aaronmbmorse&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
