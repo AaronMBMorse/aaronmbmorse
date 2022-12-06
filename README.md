@@ -1,10 +1,6 @@
-### Hi there 👋
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-stats-aaronmbmorse.herokuapp.com?user=aaronmbmorse&theme=algolia&hide_border=true" alt="aaronmbmorse" />
-</p>
-
+<div align="center">
+   <h1>Hi there, I'm Aaron <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+   
 <br>
 <br>
 
@@ -18,6 +14,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
