@@ -35,7 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: I derive immense pleasure from providing guidance and mentorship to novice web developers.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aaron-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aaronmbmorse/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aaron-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aaronmbmorse/)
 
 - ⚡ Fun fact: Keep it simple
 
