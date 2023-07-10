@@ -37,8 +37,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aaron-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aaronmbmorse/)
 
-- 😄 Pronouns: He/Him
-
 - ⚡ Fun fact: Keep it simple
 
 ---
