@@ -49,8 +49,6 @@ I am a Full Stack Developer from Alaska.
 
 ---
 
----
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
