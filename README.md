@@ -1,25 +1,24 @@
-<div id="header" style="text-align: center;">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Profile Image"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" style="text-align: center;">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/aaronmbmorse/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge for Aaron"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:aaron.mbm@icloud.com">
-    <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge for Aaron"/>
+    <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://twitter.com/aaronmbmorse">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge for Aaron"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-<div style="text-align: center;">
-  <img src="https://komarev.com/ghpvc/?username=aaronmbmorse&color=blue" alt="Profile view counter"/>
-  <h1>
-    Hello there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand gif"/>
-  </h1>
+<div align="center">
+      <img src="https://komarev.com/ghpvc/?username=aaronmbmorse&color=blue" alt=""/>
+      <h1>
+            Hello there
+            <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+      </h1>
 </div>
 
 ---
