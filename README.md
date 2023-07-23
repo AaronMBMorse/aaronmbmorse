@@ -28,13 +28,13 @@
 
 I am a Full Stack Developer from Alaska.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Full Stack Software Engineer with a passion for big ideas and social change.
 
 - :seedling: Exploring Technical Content Writing.
 
 - 💬 Ask me about Software development
 
-- :zap: I derive immense pleasure from providing guidance and mentorship to novice web developers.
+- :zap: I derive great pleasure from providing guidance and mentorship to novice web developers.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aaron-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aaronmbmorse/)
 
