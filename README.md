@@ -1,24 +1,25 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="header" style="text-align: center;">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Profile Image"/>
 </div>
 
-<div id="badges" align="center">
+<div id="badges" style="text-align: center;">
   <a href="https://www.linkedin.com/in/aaronmbmorse/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge for Aaron"/>
   </a>
   <a href="mailto:aaron.mbm@icloud.com">
-    <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge for Aaron"/>
   </a>
   <a href="https://twitter.com/aaronmbmorse">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge for Aaron"/>
   </a>
 </div>
-<div align="center">
-      <img src="https://komarev.com/ghpvc/?username=aaronmbmorse&color=blue" alt=""/>
-      <h1>
-            Hey there
-            <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-      </h1>
+
+<div style="text-align: center;">
+  <img src="https://komarev.com/ghpvc/?username=aaronmbmorse&color=blue" alt="Profile view counter"/>
+  <h1>
+    Hello there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand gif"/>
+  </h1>
 </div>
 
 ---
@@ -37,7 +38,16 @@ I am a Full Stack Developer from Alaska.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aaron-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aaronmbmorse/)
 
-- ⚡ Fun fact: Keep it simple
+- ⚡ Fun fact: From Alaska 
+
+---
+
+### :bulb: Projects:
+
+- **Real Estate Investing Simulator**: A dynamic tool aimed at providing investors with detailed insights and simulations for real estate investments. Check it out [here](https://www.reisimulator.com).
+- **Pulse**: An engaging application that captures and shares the pulse of society, reflecting popular opinion on various issues. Check the iOS App out [here](https://apps.apple.com/us/app/social-pulse/id1659532299)
+
+---
 
 ---
 
