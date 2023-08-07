@@ -21,13 +21,13 @@
       </span>
 </div>
 
----
+----
 
 ### 👨‍💻 About Me
 
 Full Stack Developer from AK, where the natural landscapes inspire innovation. Passionate about real estate 🏠, robotics 🤖, and all things STEM 🔬. A sci-fi enthusiast, always looking beyond the horizon. When I'm not coding or tinkering, you'll find me outdoors, soaking in the wonders of nature. Here to collaborate, innovate, and bring imaginative ideas to life. Let's build the future together! 🚀
 
----
+----
 
 ### 🏠 [**Current Project**](https://www.reisimulator.com)
 
@@ -78,13 +78,13 @@ I'm at the helm of creating a groundbreaking real estate investing software that
     </a>
 </div>
 
----
+----
 
 ### 💡 Projects
 
 - **Pulse**: An engaging application that captures and shares the pulse of society, reflecting popular opinion on various issues. Check the iOS App out [here](https://apps.apple.com/us/app/social-pulse/id1659532299)
 
----
+----
 
 ### 🛠️ Languages and Tools
 
