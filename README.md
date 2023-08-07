@@ -1,14 +1,3 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-    <style>
-        .product {
-            margin-bottom: 20px;
-        }
-    </style>
-</head>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -24,12 +13,15 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 <div align="center">
-      <h1>
+      <span style="font-size: 30px;">
             Hello there
             <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-      </h1>
+      </span>
 </div>
+
+---
 
 ### 👨‍💻 About Me
 
@@ -46,19 +38,19 @@ Full Stack Developer from AK, where the natural landscapes inspire innovation. P
 I'm at the helm of creating a groundbreaking real estate investing software that aims to streamline, optimize, and redefine the way investors analyze, compare, and manage properties. From crunching numbers for ROI calculations to offering predictive market analytics, I'm pushing the envelope in making real estate investing more accessible and data-driven.
 
 <div class="product">
-    <h5><a href="https://app.reisimulator.com"><i class="fas fa-home"></i></a> Real Estate Investing Simulator</h5>
+    <h5><a href="https://app.reisimulator.com" style="margin-right: 5px;"><img src="./assets/reis/products/home-solid.png" title="Facebook" alt="Facebook" width="18" height="18" style="vertical-align: middle"/></a> Real Estate Investing Simulator</h5>
     <p>This cutting-edge simulator empowers investors to test a wide variety of investment scenarios in a risk-free environment. Whether you're new to real estate or a seasoned expert, experience the confidence of informed decision-making without the stakes of real-world investing.</p>
 </div>
 
 <div class="product">
     <!-- Chart icon for Portfolio Management -->
-    <h5><a href="https://reisimulator.com"><i class="fas fa-chart-line"></i></a> Portfolio Management & Projection Software</h5>
+    <h5><a href="https://reisimulator.com" style="margin-right: 5px;"><img src="./assets/reis/products/chart-line-solid.png" title="Facebook" alt="Facebook" width="18" height="18" style="vertical-align: middle"/></a> Portfolio Management & Projection Software</h5>
     <p>Bring your real estate investments into sharp focus. Our portfolio management tool integrates seamlessly with the simulator, granting investors the ability to make strategic decisions around their actual investments. Harness the power of real-time projections and dynamic analytics to navigate your investment journey with precision.</p>
 </div>
 
 <div class="product">
     <!-- Search icon for Browser Extension -->
-    <h5><a href="https://www.reisimulator.com"><i class="fas fa-search-dollar"></i></a> Investment Potential Analyzer - Browser Extension</h5>
+    <h5><a href="https://www.reisimulator.com" style="margin-right: 5px;"><img src="./assets/reis/products/search-dollar-solid.png" title="Facebook" alt="Facebook" width="18" height="18" style="vertical-align: middle;"/></a> Investment Potential Analyzer - Browser Extension</h5>
     <p>Stay ahead of the curve with our browser extension designed for on-the-fly analysis. Scan properties directly from your browser, instantly gauging their investment potential. Streamline your property search and ensure every decision is backed by data.</p>
 </div>
 
