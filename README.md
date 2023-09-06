@@ -61,7 +61,7 @@ I'm at the helm of creating a groundbreaking real estate investing software that
         <img src="./assets/reis/social-icons/facebook.png" title="Facebook" alt="Facebook" width="35" height="35" style="vertical-align: middle"/>
     </a>
     <!-- Instagram -->
-    <a href="https://www.instagram.com/reico.ai/" style="text-decoration: none;">
+    <a href="https://www.instagram.com/reicoai/" style="text-decoration: none;">
         <img src="./assets/reis/social-icons/instagram.png" title="Instagram" alt="Instagram" width="35" height="35" style="vertical-align: middle"/>
     </a>
     <!-- LinkedIn -->
