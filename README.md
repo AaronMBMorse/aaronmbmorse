@@ -50,7 +50,7 @@ I'm at the helm of creating a groundbreaking real estate investing software that
 
 <div class="product">
     <!-- Search icon for Browser Extension -->
-    <h5><a href="https://www.reisimulator.com" style="margin-right: 5px;"><img src="./assets/reis/products/search-dollar-solid.png" title="Facebook" alt="Facebook" width="18" height="18" style="vertical-align: middle;"/></a> Investment Potential Analyzer - Browser Extension</h5>
+    <h5><a href="https://www.reico.ai" style="margin-right: 5px;"><img src="./assets/reis/products/search-dollar-solid.png" title="Facebook" alt="Facebook" width="18" height="18" style="vertical-align: middle;"/></a> Investment Potential Analyzer - Browser Extension</h5>
     <p>Stay ahead of the curve with our browser extension designed for on-the-fly analysis. Scan properties directly from your browser, instantly gauging their investment potential. Streamline your property search and ensure every decision is backed by data.</p>
 </div>
 
@@ -69,7 +69,7 @@ I'm at the helm of creating a groundbreaking real estate investing software that
         <img src="./assets/reis/social-icons/linkedin.png" title="LinkedIn" alt="LinkedIn" width="35" height="35" style="vertical-align: middle"/>
     </a>
     <!-- Twitter -->
-    <a href="https://twitter.com/reisimulator_" style="text-decoration: none;">
+    <a href="https://twitter.com/reicoai" style="text-decoration: none;">
         <img src="./assets/reis/social-icons/twitter.png" title="Twitter" alt="Twitter" width="35" height="35" style="vertical-align: middle"/>
     </a>
     <!-- Youtube -->
