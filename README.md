@@ -29,9 +29,9 @@ Full Stack Developer from AK, where the natural landscapes inspire innovation. P
 
 ----
 
-### 🏠 [**Current Project**](https://www.reisimulator.com)
+### 🏠 [**Current Project**](https://www.reico.ai)
 
-<a href="https://www.reisimulator.com" style="text-decoration: none;">
+<a href="https://www.reico.ai" style="text-decoration: none;">
     <img src="./assets/reis/banner.png" title="Facebook" alt="Facebook" width="3294" class="margin-left: 100px; margin-right: 100px"style="vertical-align: middle"/>
 </a>
 
@@ -57,15 +57,15 @@ I'm at the helm of creating a groundbreaking real estate investing software that
 <!-- REI Simulator Socials -->
 <div style="text-align: left; margin: 2.5px">
     <!-- Facebook -->
-    <a href="https://www.facebook.com/realestateinvestingsim" style="text-decoration: none;">
+    <a href="https://www.facebook.com/reicoai" style="text-decoration: none;">
         <img src="./assets/reis/social-icons/facebook.png" title="Facebook" alt="Facebook" width="35" height="35" style="vertical-align: middle"/>
     </a>
     <!-- Instagram -->
-    <a href="https://www.instagram.com/reisimulator/" style="text-decoration: none;">
+    <a href="https://www.instagram.com/reico.ai/" style="text-decoration: none;">
         <img src="./assets/reis/social-icons/instagram.png" title="Instagram" alt="Instagram" width="35" height="35" style="vertical-align: middle"/>
     </a>
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/company/reisimulator" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/company/reicoai" style="text-decoration: none;">
         <img src="./assets/reis/social-icons/linkedin.png" title="LinkedIn" alt="LinkedIn" width="35" height="35" style="vertical-align: middle"/>
     </a>
     <!-- Twitter -->
@@ -73,7 +73,7 @@ I'm at the helm of creating a groundbreaking real estate investing software that
         <img src="./assets/reis/social-icons/twitter.png" title="Twitter" alt="Twitter" width="35" height="35" style="vertical-align: middle"/>
     </a>
     <!-- Youtube -->
-    <a href="https://www.youtube.com/@reisimulator" style="text-decoration: none;">
+    <a href="https://www.youtube.com/@reicoai" style="text-decoration: none;">
         <img src="./assets/reis/social-icons/youtube.png" title="YouTube" alt="YouTube" width="35" height="35" style="vertical-align: middle"/>
     </a>
 </div>
