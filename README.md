@@ -72,36 +72,6 @@ An engaging iOS application that reflects popular opinion on various issues, giv
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=AaronMBMorse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Aaron's GitHub Stats" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronMBMorse&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronMBMorse&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🎪 Fun Zone
-
-<div align="center">
-  
-### 🎭 Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Contribution Activity
-![Snake animation](https://github.com/AaronMBMorse/AaronMBMorse/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
