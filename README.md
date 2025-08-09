@@ -1,16 +1,14 @@
 # 🚀 Aaron Morse
 
 <div align="center">
-  
-![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 
-### Full Stack Developer • Alaska 🏔️ • Innovation Enthusiast
+### Full Stack Developer • Southwest US (AZ ↔️ CA) • Innovation Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronmbmorse/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaron.mbm@icloud.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/aaronmbmorse)
 
-![Profile Views](https://komarev.com/ghpvc/?username=aaronmbmorse&color=blueviolet&style=for-the-badge)
+[![Profile Views](https://komarev.com/ghpvc/?username=AaronMBMorse&color=blueviolet&style=for-the-badge)](https://github.com/AaronMBMorse)
 
 </div>
 
@@ -18,14 +16,14 @@
 
 ## 🌟 About Me
 
-```typescript
+```javascript
 const aaron = {
-    location: "Alaska 🏔️",
+    location: "Southwest US (AZ ↔️ CA)",
     role: "Full Stack Developer",
     passions: ["Real Estate 🏠", "Robotics 🤖", "STEM 🔬", "Sci-Fi 🚀"],
-    philosophy: "Where natural landscapes inspire innovation",
+    philosophy: "Where desert landscapes inspire innovation",
     currentlyWorking: "Building the future, one commit at a time",
-    funFact: "When not coding, you'll find me outdoors soaking in nature's wonders"
+    funFact: "When not coding, you'll find me exploring the great outdoors"
 };
 ```
 
@@ -46,44 +44,46 @@ An engaging iOS application that reflects popular opinion on various issues, giv
 
 ## 🛠️ Tech Arsenal
 
-### **Languages & Frameworks**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,nestjs,graphql" />
-</p>
+### **Frontend & Mobile**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,tailwind,redux" />
+</div>
 
-### **Mobile & Desktop**
-<p align="center">
+### **Backend & APIs**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,express" />
+</div>
+
+### **Mobile & Desktop Development**
+<div align="center">
   <img src="https://skillicons.dev/icons?i=react,electron" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="48" height="48" style="margin: 0 4px;"/>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="48" height="48" style="margin: 0 4px;"/>
+</div>
 
 ### **Cloud & DevOps**
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,firebase,jenkins" />
-</p>
+</div>
 
-### **Databases & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,tailwind" />
-</p>
-
-### **Data Visualization**
-<p align="center">
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="48" height="48" style="margin: 0 4px;"/>
-  <img src="https://skillicons.dev/icons?i=redux" />
-</p>
+### **Databases & Caching**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaronmbmorse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronmbmorse&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=AaronMBMorse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Aaron's GitHub Stats" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronMBMorse&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronmbmorse&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronMBMorse&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -95,8 +95,8 @@ An engaging iOS application that reflects popular opinion on various issues, giv
 ### 🎭 Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/aaronmbmorse/aaronmbmorse/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Activity
+![Snake animation](https://github.com/AaronMBMorse/AaronMBMorse/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
